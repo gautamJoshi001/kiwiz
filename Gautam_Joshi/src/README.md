@@ -10,7 +10,7 @@ You should see the message "Server is running on port 3000" indicating that the 
 
 My Approach:
 
-My approach to the problem was centered around parsing and cleaning the data from a CSV file and storing it in an array. This array was meant to be used for calculating the net-revenue.
+My approach to the problem was centred around parsing and cleaning the data from a CSV file and storing it in an array. This array was meant to be used for calculating the net-revenue.
 
 Shortcomings of my Solution:
 
